@@ -1,31 +1,23 @@
 ---
-title: About Me
+title: "About "
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: About Plastic to Purpose
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
+### Who we Are
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+Plastic to Purpose (P2P) is a visionary non-profit organization **founded by students** from the esteemed University of California, Berkeley. Driven by a profound commitment to address the critical challenges of plastic waste pollution and energy scarcity, P2P stands at the forefront of **innovative waste solutions, cutting-edge research, and transformative education.**
 
-### Why create this?
+### Our Mission
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+Our mission is clear: to turn waste into light, **empowering communities through sustainable electrification and plastic cleanup**. We believe in a world where plastic waste is not just a problem but a valuable resource waiting to be harnessed for the greater good. By pioneering **innovative pyrolysis technology**, we are not only combating plastic pollution at its source but also illuminating the lives of those in underserved communities.
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+### Really Recycling
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+Our "Really Recycling" initiative embodies our dedication to transforming the way we perceive and manage plastic waste. **We don't just recycle; we reimagine**. We see plastic waste not as a problem but as a valuable resource waiting to be harnessed for a greater purpose.
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Fern in Hand](/src/assets/img/glass.jpg "Fern in Hand")

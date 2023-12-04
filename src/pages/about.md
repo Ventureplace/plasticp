@@ -20,4 +20,4 @@ Our mission is clear: to turn waste into light, **empowering communities through
 
 Our "Really Recycling" initiative embodies our dedication to transforming the way we perceive and manage plastic waste. **We don't just recycle; we reimagine**. We see plastic waste not as a problem but as a valuable resource waiting to be harnessed for a greater purpose.
 
-![Fern in Hand](/src/assets/img/glass.jpg "Fern in Hand")
+![Fern in Hand](https://drive.google.com/file/d/1jBwHdFwxhqbz8nLWo-UpGtHk7OgBevu8/view?usp=sharing "Fern in Hand")
